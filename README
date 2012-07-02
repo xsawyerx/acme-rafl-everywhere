@@ -1,0 +1,34 @@
+SYNOPSIS
+        use Acme::rafl::Everywhere;
+
+        my $rafl = Acme::rafl::Everywhere->new;
+        print $rafl->fact;
+
+    Or set your own facts
+
+        my $rafl = Acme::rafl::Everywhere->new(
+            facts => [@new_facts],
+        );
+
+DESCRIPTION
+    If you haven't already seen "rafl" somewhere, you probably haven't been
+    alive for too long, because "rafl" really is everywhere.
+
+    Moose, MooseX::Declare, Catalyst, "Dist::Zilla, signatures, KiokuDB,
+    Gtk2, Perl core, MetaCPAN and GSoC are just *some* of the projects he's
+    involved in. "
+
+BUGS
+    This module cannot contain all the information about "rafl", but you're
+    more than welcome to add any new info.
+
+THANKS
+    To "rafl" for being everywhere. :)
+
+POD ERRORS
+    Hey! The above document had some coding errors, which are explained
+    below:
+
+    Around line 76:
+        Unterminated L<...> sequence
+
