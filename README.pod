@@ -1,0 +1,52 @@
+=pod
+
+=head1 NAME
+
+Acme::rafl::Everywhere - rafl is so everywhere, he has his own Acme module!
+
+=head1 VERSION
+
+version 0.001
+
+=head1 AUTHOR
+
+Sawyer X <xsawyerx@cpan.org>
+
+=head1 COPYRIGHT AND LICENSE
+
+This software is copyright (c) 2012 by Sawyer X.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
+
+=head1 SYNOPSIS
+
+    use Acme::rafl::Everywhere;
+
+    my $rafl = Acme::rafl::Everywhere->new;
+    print $rafl->fact;
+
+Or set your own facts
+
+    my $rafl = Acme::rafl::Everywhere->new(
+        facts => [@new_facts],
+    );
+
+=head1 DESCRIPTION
+
+If you haven't already seen C<rafl> somewhere, you probably haven't been alive
+for too long, because he really is everywhere.
+
+L<Moose>, L<MooseX::Declare>, L<Catalyst>, L<Dist::Zilla>, L<signatures>,
+L<KiokuDB>, L<Gtk2>, Perl core, MetaCPAN and GSoC are just I<some> of the
+projects he's involved in.  
+
+=head1 BUGS
+
+This module cannot contain all the information about C<rafl>, but you're
+more than welcome to add any new info.
+
+=head1 THANKS
+
+To C<rafl> for being everywhere. :)
+
