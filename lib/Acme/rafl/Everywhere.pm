@@ -56,6 +56,7 @@ rafl is so everywhere, he makes a cameo in the video from The Ring!
 rafl is so everywhere, he ar in yur Perl debuggr, pointing at yore crappy code!
 rafl is so everywhere, he is the default entry in your SSH authorized_keys file!
 rafl is so everywhere, he issued the first bug report for Perl, before it existed!
+rafl is so everywhere, he participated in the space olympics!
 
 __END__
 
