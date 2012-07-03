@@ -52,6 +52,9 @@ rafl is so everywhere, you can find Waldo simply by searching for anyone who isn
 rafl is so everywhere, Jesus owes him a pull request on Github!
 rafl is so everywhere, he has the first commit of Javascript on Parrot!
 rafl is so everywhere, when you breathe, that's rafl you're breathing!
+rafl is so everywhere, he makes a cameo in the video from the Ring!
+rafl is so everywhere, he ar in yur Perl debuggr, pointing at yore crappy code!
+rafl is so everywhere, he is the default entry in your SSH authorized_keys file!
 
 __END__
 
