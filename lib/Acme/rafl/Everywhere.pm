@@ -47,11 +47,11 @@ rafl is so everywhere, even Chuck Norris checks under his bed every night!
 rafl is so everywhere, Freddy Krueger is afraid of falling asleep!
 rafl is so everywhere, Schrodinger's cat's got nothing on him!
 rafl is so everywhere, he sent me postcards from the surface of the sun!
-rafl is so everywhere, when you want to abandon a module, rafl gets comaint automatically!
+rafl is so everywhere, when you want to abandon a module, rafl gets co-maint automatically!
 rafl is so everywhere, you can find Waldo simply by searching for anyone who isn't rafl!
-rafl is so everywhere, Jesus owns him a pull request on Github!
+rafl is so everywhere, Jesus owes him a pull request on Github!
 rafl is so everywhere, he has the first commit of Javascript on Parrot!
-rafl is so everywhere, when you breath, that's rafl you're breathing!
+rafl is so everywhere, when you breathe, that's rafl you're breathing!
 
 __END__
 
