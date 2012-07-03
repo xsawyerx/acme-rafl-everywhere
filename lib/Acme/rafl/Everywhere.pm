@@ -82,6 +82,12 @@ L<Moose>, L<MooseX::Declare>, L<Catalyst>, L<Dist::Zilla>, L<signatures>,
 L<KiokuDB>, L<Gtk2>, Perl core, MetaCPAN and GSoC are just I<some> of the
 projects he's involved in.  
 
+=head1 HELP ADD MORE FACTS
+
+Please add more facts! We accept pull requests, patches, emails, IRC messages,
+fortune cookie notes, sky writings, scribbled messages on public bathroom
+stalls, inappropriate mid-meeting whispers, and more.
+
 =head1 BUGS
 
 This module cannot contain all the information about C<rafl>, but you're
