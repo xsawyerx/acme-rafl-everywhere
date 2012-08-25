@@ -1,5 +1,9 @@
 Revision history for Perl extension Acme::rafl::Everywhere.
 
+0.003   25.08.2012
+        * Add another fact.
+        * Add proof for the fact.
+
 0.002   04.07.2012
         * Some fixes.
         * Added more facts.
