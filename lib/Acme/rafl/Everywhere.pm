@@ -23,6 +23,12 @@ my @default_facts = (
   q{rafl is so everywhere, he can visit all the YAPCs even if they are on the same day!},
   q{rafl is so everywhere, every picture is actually photo-bombed by rafl!},
   q{rafl is so everywhere, Git might be renamed to Girafl to clarify its distributed design!},
+  q{rafl is so everywhere, the post office asks him for directions!},
+  q{rafl is so everywhere, he has more foursquare checkins in Mars than the Curiosity hover!},
+  q{rafl is so everywhere, quantum teleportation papers cite him as main study source!},
+  q{rafl is so everywhere, he can patch your code even before you push it!},
+  q{rafl is so everywhere, he caused an integer overflow in every Airline's mileage system!},
+  q{rafl is so everywhere, there's a saved seat for him in every conference in the world!},
 );
 
 sub new {
