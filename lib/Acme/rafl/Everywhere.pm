@@ -84,6 +84,8 @@ not exist without the help of these tireless hard-working lead investigators:
 
 =over 4
 
+=item * Breno (garu) G. de Oliveira
+
 =item * Sawyer X
 
 =item * Toby Inkster
