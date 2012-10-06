@@ -6,7 +6,7 @@ Acme::rafl::Everywhere - rafl is so everywhere, he has his own Acme module!
 
 =head1 VERSION
 
-version 0.005
+version 0.006
 
 =head1 SYNOPSIS
 
@@ -40,6 +40,8 @@ help in collecting these completely real facts about C<rafl>. This list would
 not exist without the help of these tireless hard-working lead investigators:
 
 =over 4
+
+=item * Breno (garu) G. de Oliveira
 
 =item * Sawyer X
 
