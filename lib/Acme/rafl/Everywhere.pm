@@ -102,7 +102,7 @@ not exist without the help of these tireless hard-working lead investigators:
 Please add more facts! We accept pull requests, patches, emails, IRC messages,
 fortune cookie notes, sky writings, scribbled messages on public bathroom
 stalls, inappropriate mid-meeting whispers, and more.
- 
+
 =head1 BUGS
 
 This module cannot contain all the information about C<rafl>, but you're
@@ -111,4 +111,10 @@ more than welcome to add any new info.
 =head1 THANKS
 
 To C<rafl> for being everywhere. :)
+
+=head1 SEE ALSO
+
+http://piuparts.debian.org/squeeze/maintainer/r/rafl@debian.org.html
+
+https://metacpan.org/author/FLORA
 
