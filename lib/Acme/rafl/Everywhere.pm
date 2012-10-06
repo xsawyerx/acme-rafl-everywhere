@@ -3,33 +3,36 @@ use warnings;
 package Acme::rafl::Everywhere;
 # ABSTRACT: rafl is so everywhere, he has his own Acme module!
 
+my @default_facts = (
+  q{rafl is so everywhere, he's on both the vim and emacs mailing list, arguing for each!},
+  q{rafl is so everywhere, he's behind you right now!},
+  q{rafl is so everywhere, even Chuck Norris checks under his bed every night!},
+  q{rafl is so everywhere, Freddy Krueger is afraid of falling asleep!},
+  q{rafl is so everywhere, Schrodinger's cat's got nothing on him!},
+  q{rafl is so everywhere, he sent me postcards from the surface of the sun!},
+  q{rafl is so everywhere, when you want to abandon a module, rafl gets co-maint automatically!},
+  q{rafl is so everywhere, you can find Waldo simply by searching for anyone who isn't rafl!},
+  q{rafl is so everywhere, Jesus owes him a pull request on Github!},
+  q{rafl is so everywhere, he has the first commit of Javascript on Parrot!},
+  q{rafl is so everywhere, when you breathe, that's rafl you're breathing!},
+  q{rafl is so everywhere, he makes a cameo in the video from The Ring!},
+  q{rafl is so everywhere, he ar in yur Perl debuggr, pointing at yore crappy code!},
+  q{rafl is so everywhere, he is the default entry in your SSH authorized_keys file!},
+  q{rafl is so everywhere, he issued the first bug report for Perl, before it existed!},
+  q{rafl is so everywhere, he participated in the space olympics!},
+  q{rafl is so everywhere, he can visit all the YAPCs even if they are on the same day!},
+  q{rafl is so everywhere, every picture is actually photo-bombed by rafl!},
+  q{rafl is so everywhere, Git might be renamed to Girafl to clarify its distributed design!},
+);
+
 sub new {
     my $class = shift;
     my $self  = bless {@_}, $class;
 
     exists $self->{'facts'}
-        or $self->{'facts'} = $self->load_facts;
+        or $self->{'facts'} = \@default_facts;
 
     return $self;
-}
-
-sub load_facts {
-    my $self  = shift;
-    my @facts = ();
-
-    while ( my $line = <DATA> ) {
-        $line =~ /^__END__/ and last;
-
-        # ignore empty lines
-        $line =~ s/^\s+//;
-        $line =~ s/\s+$//;
-        chomp $line;
-        $line or next;
-
-        push @facts, $line;
-    }
-
-    return [@facts];
 }
 
 sub fact {
@@ -41,26 +44,6 @@ sub fact {
 1;
 
 __DATA__
-rafl is so everywhere, he's on both the vim and emacs mailing list, arguing for each!
-rafl is so everywhere, he's behind you right now!
-rafl is so everywhere, even Chuck Norris checks under his bed every night!
-rafl is so everywhere, Freddy Krueger is afraid of falling asleep!
-rafl is so everywhere, Schrodinger's cat's got nothing on him!
-rafl is so everywhere, he sent me postcards from the surface of the sun!
-rafl is so everywhere, when you want to abandon a module, rafl gets co-maint automatically!
-rafl is so everywhere, you can find Waldo simply by searching for anyone who isn't rafl!
-rafl is so everywhere, Jesus owes him a pull request on Github!
-rafl is so everywhere, he has the first commit of Javascript on Parrot!
-rafl is so everywhere, when you breathe, that's rafl you're breathing!
-rafl is so everywhere, he makes a cameo in the video from The Ring!
-rafl is so everywhere, he ar in yur Perl debuggr, pointing at yore crappy code!
-rafl is so everywhere, he is the default entry in your SSH authorized_keys file!
-rafl is so everywhere, he issued the first bug report for Perl, before it existed!
-rafl is so everywhere, he participated in the space olympics!
-rafl is so everywhere, he can visit all the YAPCs even if they are on the same day!
-rafl is so everywhere, every picture is actually photo-bombed by rafl!
-rafl is so everywhere, Git might be renamed to Girafl to clarify its distributed design!
-
 __END__
 
 =head1 SYNOPSIS
