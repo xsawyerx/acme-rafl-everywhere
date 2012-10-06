@@ -6,7 +6,7 @@ Acme::rafl::Everywhere - rafl is so everywhere, he has his own Acme module!
 
 =head1 VERSION
 
-version 0.004
+version 0.005
 
 =head1 SYNOPSIS
 
@@ -32,6 +32,24 @@ projects he's involved in.
 
 There is proof for at least one fact noted by this distribution:
 http://t.co/jcne0k4p, taken at YAPC::EU 2012.
+
+=head1 CONTRIBUTERS
+
+We would like to thank the following people (in alphabetical order) for their
+help in collecting these completely real facts about C<rafl>. This list would
+not exist without the help of these tireless hard-working lead investigators:
+
+=over 4
+
+=item * Sawyer X
+
+=item * Toby Inkster
+
+=item * Torsten (Getty) Raudssus
+
+=item * Viacheslav (vti) Tykhanovskyi
+
+=back
 
 =head1 HELP ADD MORE FACTS
 
