@@ -58,9 +58,8 @@ rafl is so everywhere, he is the default entry in your SSH authorized_keys file!
 rafl is so everywhere, he issued the first bug report for Perl, before it existed!
 rafl is so everywhere, he participated in the space olympics!
 rafl is so everywhere, he can visit all the YAPCs even if they are on the same day!
-rafl is so everywhere, every picture is actually photo-bombed by rafl.
+rafl is so everywhere, every picture is actually photo-bombed by rafl!
 rafl is so everywhere, Git might be renamed to Girafl to clarify its distributed design!
-
 
 __END__
 
