@@ -1,5 +1,9 @@
 Revision history for Perl extension Acme::rafl::Everywhere.
 
+0.004   06.10.2012
+        * Added another fact by Getty & Toby Inkster.
+        * GH #3: Fixed idempotency by defining facts in code (thanks, Toby Inkster).
+
 0.003   25.08.2012
         * Add another fact.
         * Add proof for the fact.
