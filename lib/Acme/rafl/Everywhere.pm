@@ -70,12 +70,30 @@ projects he's involved in.
 There is proof for at least one fact noted by this distribution:
 http://t.co/jcne0k4p, taken at YAPC::EU 2012.
 
+=head1 CONTRIBUTERS
+
+We would like to thank the following people (in alphabetical order) for their
+help in collecting these completely real facts about C<rafl>. This list would
+not exist without the help of these tireless hard-working lead investigators:
+
+=over 4
+
+=item * Sawyer X
+
+=item * Toby Inkster
+
+=item * Torsten (Getty) Raudssus
+
+=item * Viacheslav (vti) Tykhanovskyi
+
+=back
+
 =head1 HELP ADD MORE FACTS
 
 Please add more facts! We accept pull requests, patches, emails, IRC messages,
 fortune cookie notes, sky writings, scribbled messages on public bathroom
 stalls, inappropriate mid-meeting whispers, and more.
-
+ 
 =head1 BUGS
 
 This module cannot contain all the information about C<rafl>, but you're
