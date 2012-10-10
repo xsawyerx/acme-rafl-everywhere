@@ -52,6 +52,12 @@ sub fact {
 
 __END__
 
+=begin html
+
+<img src="http://cdn.memegenerator.net/instances/400x/28135704.jpg" />
+
+=end html
+
 =head1 SYNOPSIS
 
     use Acme::rafl::Everywhere;
@@ -74,10 +80,14 @@ L<Moose>, L<MooseX::Declare>, L<Catalyst>, L<Dist::Zilla>, L<signatures>,
 L<KiokuDB>, L<Gtk2>, Perl core, MetaCPAN and GSoC are just I<some> of the
 projects he's involved in.  
 
-There is proof for at least one fact noted by this distribution:
-http://t.co/jcne0k4p, taken at YAPC::EU 2012.
+There is proof for at least one fact noted by this distribution, taken at
+YAPC::EU 2012.
 
-Some fan art: http://cdn.memegenerator.net/instances/400x/28135704.jpg.
+=begin html
+
+<a href="http://t.co/jcne0k4p"><img src="https://pbs.twimg.com/media/A1D_IQqCMAERsHA.jpg" /></a>
+
+=end html
 
 =head1 CONTRIBUTERS
 
