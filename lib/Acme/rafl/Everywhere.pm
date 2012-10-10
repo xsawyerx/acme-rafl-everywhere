@@ -99,7 +99,7 @@ not exist without the help of these tireless hard-working lead investigators:
 
 =item * Breno (garu) G. de Oliveira
 
-=item * Sawyer X
+=item * Damien Krotkine
 
 =item * Toby Inkster
 
