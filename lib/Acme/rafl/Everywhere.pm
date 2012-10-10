@@ -77,6 +77,8 @@ projects he's involved in.
 There is proof for at least one fact noted by this distribution:
 http://t.co/jcne0k4p, taken at YAPC::EU 2012.
 
+Some fan art: http://cdn.memegenerator.net/instances/400x/28135704.jpg.
+
 =head1 CONTRIBUTERS
 
 We would like to thank the following people (in alphabetical order) for their
