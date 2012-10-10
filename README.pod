@@ -6,7 +6,7 @@ Acme::rafl::Everywhere - rafl is so everywhere, he has his own Acme module!
 
 =head1 VERSION
 
-version 0.006
+version 0.007
 
 =head1 SYNOPSIS
 
@@ -30,8 +30,12 @@ L<Moose>, L<MooseX::Declare>, L<Catalyst>, L<Dist::Zilla>, L<signatures>,
 L<KiokuDB>, L<Gtk2>, Perl core, MetaCPAN and GSoC are just I<some> of the
 projects he's involved in.  
 
-There is proof for at least one fact noted by this distribution:
-http://t.co/jcne0k4p, taken at YAPC::EU 2012.
+There is proof for at least one fact noted by this distribution, taken at
+YAPC::EU 2012.
+
+=for html <img src="http://cdn.memegenerator.net/instances/400x/28135704.jpg" />
+
+=for html <a href="http://t.co/jcne0k4p"><img src="https://pbs.twimg.com/media/A1D_IQqCMAERsHA.jpg" /></a>
 
 =head1 CONTRIBUTERS
 
@@ -43,7 +47,7 @@ not exist without the help of these tireless hard-working lead investigators:
 
 =item * Breno (garu) G. de Oliveira
 
-=item * Sawyer X
+=item * Damien Krotkine
 
 =item * Toby Inkster
 
@@ -67,6 +71,12 @@ more than welcome to add any new info.
 =head1 THANKS
 
 To C<rafl> for being everywhere. :)
+
+=head1 SEE ALSO
+
+http://piuparts.debian.org/squeeze/maintainer/r/rafl@debian.org.html
+
+https://metacpan.org/author/FLORA
 
 =head1 AUTHOR
 
