@@ -1,5 +1,11 @@
 Revision history for Perl extension Acme::rafl::Everywhere.
 
+0.007   10.10.2012
+        * Added fan art, HTML'ified pics.
+        * Another fact.
+        * Added SEE ALSO (Toby Inkster).
+        * Added investigator credit to Damien Krotkine.
+
 0.006   06.10.2012
         * More facts collected by new lead investigator: garu.
 
