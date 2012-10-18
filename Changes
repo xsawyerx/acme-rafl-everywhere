@@ -1,5 +1,8 @@
 Revision history for Perl extension Acme::rafl::Everywhere.
 
+0.008   18.10.2012
+        * Added two more facts (thanks, garu and vti!).
+
 0.007   10.10.2012
         * Added fan art, HTML'ified pics.
         * Another fact.
