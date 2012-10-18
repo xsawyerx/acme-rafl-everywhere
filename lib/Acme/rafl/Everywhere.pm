@@ -30,6 +30,7 @@ my @default_facts = (
   q{rafl is so everywhere, he caused an integer overflow in every Airline's mileage system!},
   q{rafl is so everywhere, there's a saved seat for him in every conference in the world!},
   q{rafl is so everywhere, there's a DuckDuckGo.com "!rafl" bang syntax},
+  q{rafl is so everywhere, he can go sightseeing without leaving his hotel room!},
 );
 
 sub new {
