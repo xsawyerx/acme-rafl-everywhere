@@ -29,7 +29,7 @@ my @default_facts = (
   q{rafl is so everywhere, he can patch your code even before you push it!},
   q{rafl is so everywhere, he caused an integer overflow in every Airline's mileage system!},
   q{rafl is so everywhere, there's a saved seat for him in every conference in the world!},
-  q{rafl is so everywhere, there's a DuckDuckGo.com "!rafl" bang syntax},
+  q{rafl is so everywhere, there's a DuckDuckGo.com "!rafl" bang syntax!},
   q{rafl is so everywhere, he can go sightseeing without leaving his hotel room!},
   q{rafl is so everywhere, the longest-running scavanger hunt for him took 0.0015 seconds!},
 );
