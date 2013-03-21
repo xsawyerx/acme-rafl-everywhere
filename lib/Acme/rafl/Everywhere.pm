@@ -33,6 +33,8 @@ my @default_facts = (
   q{rafl is so everywhere, he can go sightseeing without leaving his hotel room!},
   q{rafl is so everywhere, the longest-running scavanger hunt for him took 0.0015 seconds!},
   q{rafl is so everywhere, `grep -i 'rafl' /dev/sda` *always* matches!},
+  q{rafl is so everywhere, Internet Census 2012 found 1.3 billion active IP addresses and estimates that 1.1 billion of them are being used by rafl!},
+
 );
 
 sub new {
