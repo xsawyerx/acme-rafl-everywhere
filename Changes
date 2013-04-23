@@ -1,5 +1,8 @@
 Revision history for Perl extension Acme::rafl::Everywhere.
 
+0.010   23.04.2013
+        * Fix Curiosity entry (Tadeusz Sośnierz, John SJ @genehack Anderson).
+
 0.009   15.01.2013
         * Added another fact (thanks, Steve Scaffidi @hercynium)
         * Small fix with exclamation mark.
