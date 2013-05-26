@@ -1,5 +1,10 @@
 Revision history for Perl extension Acme::rafl::Everywhere.
 
+0.011   26.05.2013
+        * Another fact.
+        * Two more facts were added by Toby Inkster in 0.010 but he didn't get
+          the proper credit. PLZ2FIX. (GH #9, #11)
+
 0.010   23.04.2013
         * Fix Curiosity entry (Tadeusz Sośnierz, John SJ @genehack Anderson).
 
